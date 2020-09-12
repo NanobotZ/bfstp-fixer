@@ -13,3 +13,6 @@ It will create a new file called "*_fixed.bfstp", so it doesn't overwrite the or
 
 ## Important:
 It won't work with any hex-edited files, so please use it on the BFSTP's that came out straight from the converter.
+
+## Thanks To:
+- Waikuteru on Zelda BOTW Modding Hub discord - testing
